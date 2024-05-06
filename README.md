@@ -22,7 +22,8 @@
 - Compile and maintain internal/external datasets (reporters, articles, media links) through data entry and ETL processes
 - Develop search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
-**Founder** @ Glass Lizzard | (_January 2020 - Present_)
+**Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
+**Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
 - Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
