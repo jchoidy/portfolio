@@ -4,8 +4,9 @@
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker  
 
 ## Education
-- B.A., Economics | New York University (_May 2018_)
-- Graphic Design | Fullerton College (_June 2018 - Dec 2018_)
+- | :-------------- | :------------------------------------------|
+- | B.A., Economics | New York University (_May 2018_)           |
+- | Graphic Design  | Fullerton College (_June 2018 - Dec 2018_) |
 
 ## Work Experience
 **PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)**
