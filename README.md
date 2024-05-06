@@ -12,10 +12,7 @@
 | :-------------- | :-------------------------------- |
 | B.A., Economics | New York University (_May 2018_)  |
 | Graphic Design  | Fullerton College (_August 2018_) |
-
-
----
-
+<br/>
 
 ## 📊 Work Experience
 **PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)**<br/>
@@ -28,10 +25,7 @@
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
 - Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
-
-
----
-
+<br/>
 
 ## 📑 Projects 
 **Global Covid Deaths and Infection Rate**
