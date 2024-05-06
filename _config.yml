@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: Jason Choi
 email: jasonchoiprod@gmail.com
 logo: /assets/headshot_circle_1.png
-description: Welcome to my website; my name is Jason Choi. I studied Economics at New York University and am an analyst with two years of experience at a Multicultural Creative Agency. This is a portfolio website to showcase some of my recent projects, a few of them for clients.
+description: Welcome! I'm an Economics graduate from NYU with two years of experience as an analyst at a Multicultural Creative Agency. This site is my portfolio, featuring recent projects that I've worked on.
+markdown: GFM
