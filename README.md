@@ -14,6 +14,7 @@
 | Graphic Design  | Fullerton College (_August 2018_) |
 
 <br/>
+
 ## 📊 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
@@ -26,12 +27,13 @@
 - Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
-**Public Relations Intern** @ IW Group Inc.<br/>(_June 2015 - December 2015_)<br/>
+**Public Relations Intern** @ IW Group Inc. | (_June 2015 - December 2015_)<br/>
 **Clients**: McDonald's, Wells Fargo, Lexus
 - Brainstormed ideas with the PR team on how to gain earned media and improve brand image for clients such as Wells Fargo, McDonald’s, and Lexus
 - Developed social media trackers for events, analyzed data such as engagement, and reported findings to the wider team
 
 <br/>
+
 ## 📑 Projects 
 **Global Covid Deaths and Infection Rate**<br/>
 [Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
