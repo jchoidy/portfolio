@@ -1,4 +1,4 @@
-# Hi, I'm Jason. 👋  Welcome to my *Data Analyst Portfolio*!
+# 👋 Welcome to my *Data Analyst Portfolio*!
 
 ## 🚀 About Me
 I am Marketing Analyst proficient in SQL, Excel, Tableau, Power BI, and Python.
