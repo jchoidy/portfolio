@@ -25,7 +25,7 @@
 **Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
-- Designed and developed an e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
+- Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
 **Public Relations Intern** @ IW Group Inc. | (_June 2015 - December 2015_)<br/>
