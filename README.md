@@ -10,7 +10,7 @@
 | Graphic Design  | Fullerton College (_August 2018_) |
 
 ## 📊 Work Experience
-**PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)**
+**PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)**<br/>
 **Clients: McDonald's, Wells Fargo**
 - Develop quarterly/monthly DE&I dashboards and reporting structure for Wells Fargo using Excel pivot tables and Tableau, transforming and analyzing internal earned media data to inform stakeholders
 - Compile and maintain internal/external datasets (reporters, articles, media links) through data entry and ETL processes
