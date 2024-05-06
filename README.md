@@ -18,7 +18,7 @@
 ## 📊 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
-- Developed Wells Fargo's Monthly Earned Media DE&I reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices
+- Developed Wells Fargo's monthly DE&I reporting dashboard for Earned Media using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
 - Compiled and maintained McDonald's AAPI Earned Media segment's databases through data entry and ETL processes, reducing the PR team's workload by 15% weekly
 - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
