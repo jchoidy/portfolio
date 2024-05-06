@@ -18,14 +18,14 @@
 ## 📊 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
-- Develop quarterly/monthly DE&I dashboards and reporting structure for Wells Fargo using Excel pivot tables and Tableau, transforming and analyzing internal earned media data to inform stakeholders of PR and communication strategies
-- Compile and maintain internal/external datasets (reporters, articles, media links) through data entry and ETL processes
-- Develop search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
+- Developed Wells Fargo's quarterly + monthly Earned Media DE&I reporting dashboards using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices
+- Compiled and maintained McDonald's AAPI Earned Media segment's databases through data entry and ETL processes, reducing the PR team's workload by 15% weekly
+- Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
 **Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
-- Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
+- Designed and developed an e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
 **Public Relations Intern** @ IW Group Inc. | (_June 2015 - December 2015_)<br/>
