@@ -1,6 +1,6 @@
 # Data Analyst
 
-**Technical Skills**: SQL, Tableau, Excel, Python, R
+**Technical Skills**: SQL, Tableau, Excel, Python, R <br/>
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker  
 
 ## Education
@@ -27,6 +27,12 @@
 Used **SQL** to xyz.
 
 ![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
+
+**Movie Genre & Rating Performance**
+
+Used **Excel** to xyz
+
+![Dashboard](/assets/IMDB_dashboard.png)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonchoi24)
