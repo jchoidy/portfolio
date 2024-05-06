@@ -38,13 +38,14 @@
 **Global Covid Deaths and Infection Rate**<br/>
 [Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
 
-Used **SQL** to xyz.
+Used **SQL** to Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
 
-**Movie Genre & Rating Performance**
+**Movie Genre & Rating Performance**<br/>
+[Project Files](/IMDb-Database-Dashboard)
 
-Used **Excel** to xyz
+Used **Excel** to Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Dashboard](/assets/IMDB_dashboard.png)
 
