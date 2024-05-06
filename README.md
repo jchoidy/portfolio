@@ -1,4 +1,19 @@
-# 👋 Welcome to my *Data Analyst Portfolio*!
+# Data Analyst
+
+#### Technical Skills: SQL, Tableau, Excel, Python
+
+## Education
+- B.A., Economics | New York University (_May 2018_)
+- Art + Graphic Design | Fullerton College (_June 2018 - December 2019_)
+
+## Work Experience
+**PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)
+- Clients: McDonald's, Wells Fargo
+- xxxx
+- xxxxx
+
+**Founder @ Glass Lizzard (_January 2020 - Present_)
+- Founded a vegan skincare company as a passion project
 
 ## 🚀 About Me
 I am Marketing Analyst proficient in SQL, Excel, Tableau, Power BI, and Python.
