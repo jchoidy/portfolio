@@ -1,6 +1,7 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Tableau, Excel, Python
+**Technical Skills**: SQL, Tableau, Excel, Python, R
+**Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker  
 
 ## Education
 - B.A., Economics | New York University (_May 2018_)
@@ -18,16 +19,14 @@
 - Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
-## 🚀 About Me
-I am Marketing Analyst proficient in SQL, Excel, Tableau, Power BI, and Python.
+## Projects
+**Global Covid Deaths and Infection Rate**
 
-## 🛠 Skills
-**Data**: Excel, SQL, Tableau, Power BI, Python, R  
-**PRM Software**: Muck Rack, Upfluencer, Sprinklr, Brandwatch, Cision, Statepoint, SimilarWeb, Talkwalker  
-**Team Collaboration**: Monday.com, Trello, Asana, Notion, AirTable
+[Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
+
+Used **SQL** to xyz.
+
+![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonchoi24)
-
-## Contact
-I believe my data analytics skills and experience align well with the requirements of a data analyst role. I look forward to discussing my qualifications and can be reached at jasonchoiprod@gmail.com
