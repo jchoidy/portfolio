@@ -3,12 +3,13 @@
 **Technical Skills**: SQL, Tableau, Excel, Python, R <br/>
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker  
 
-## Education
-- | :-------------- | :------------------------------------------|
-- | B.A., Economics | New York University (_May 2018_)           |
-- | Graphic Design  | Fullerton College (_June 2018 - Dec 2018_) |
+## 📚 Education
+| Subject         | College/University               |
+| :-------------- | :--------------------------------|
+| B.A., Economics | New York University (_May 2018_) |
+| Graphic Design  | Fullerton College (_August 2018_)  |
 
-## Work Experience
+## 📊 Work Experience
 **PR & Brand Coordinator @ IW Group Inc. (_October 2022 - Present_)**
 - **Clients**: McDonald's, Wells Fargo
 - Develop quarterly/monthly DE&I dashboards and reporting structure for Wells Fargo using Excel pivot tables and Tableau, transforming and analyzing internal earned media data to inform stakeholders
@@ -20,7 +21,7 @@
 - Design and develop e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
-## Projects
+## 📑 Projects 
 **Global Covid Deaths and Infection Rate**
 
 [Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
