@@ -1,6 +1,6 @@
 # Global Covid Deaths EDA + Dashboard
 
-This project was born out of my curiosity to generally assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
+This project was born out of my curiosity to assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
 
 ## Process
 
