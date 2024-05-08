@@ -39,15 +39,21 @@
 **Global Covid Deaths and Infection Rate**<br/>
 [Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
 
-Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing global death and infection rates in **Tableau**. The insights allow for a general assessment of Covid restriction efficacy since 2020, particularly in highly populated nations, and tracking infection rate trends over time. <br/>
+Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing global death and infection rates in **Tableau**. The insights allow for a general assessment of Covid restriction efficacy since 2020, particularly in highly populated nations, and tracking infection rate trends over time.
+
+<br/>
+
 ![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
 
 <br/>
 
 **Movie Genre & Rating Performance**<br/>
-[Project Repo](/IMDb-Database-Dashboard/README.md)
+[Project Repo]([/IMDb-Database-Dashboard/README.md](https://github.com/jchoidy/portfolio/tree/main/IMDb%20Database%20Dashboard))
 
-Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country and release date, allowing for trend analysis on global entertainment preferences. <br/>
+Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country and release date, allowing for trend analysis on global entertainment preferences.
+
+<br/>
+
 ![Dashboard](/assets/IMDB_dashboard.png)
 
 
