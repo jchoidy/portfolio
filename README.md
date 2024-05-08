@@ -18,8 +18,8 @@
 ## 📑 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
-- Developed Wells Fargo's monthly DE&I media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
-- Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's workload by 15% weekly
+- Developed Wells Fargo's monthly DE&I Earned Media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
+- Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
 - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
 **Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
