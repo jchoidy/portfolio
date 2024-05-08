@@ -46,7 +46,7 @@ Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing 
 <br/>
 
 **Movie Genre & Rating Performance**<br/>
-[Project Repo]([https://github.com/jchoidy/portfolio/tree/e01ddb8f9e5c43a84e6c910f316cd83b8257cf98/IMDb%20Database%20Dashboard)
+[Project Repo]([/IMDb Database Dashboard)
 
 Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country and release date, allowing for trend analysis on global entertainment preferences.
 
