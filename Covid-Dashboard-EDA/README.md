@@ -4,7 +4,7 @@ This project was born out of my curiosity to assess Covid restriction efficacy s
 
 ## Process
 
-After downloading the dataset from [Our World in Data](https://ourworldindata.org/covid-deaths), I transformed the tables in **Excel**, utilized **SQL** (PostgreSQL) to perform exploratory data analysis, and then extracted my key findings to visualize in **Tableau**.
+After downloading the dataset from [Our World in Data](https://ourworldindata.org/covid-deaths), I transformed the table in **Excel**, utilized **SQL** (PostgreSQL) to perform exploratory data analysis, and then extracted my key findings to visualize in **Tableau**.
 
 
 ## Dataset Summary
