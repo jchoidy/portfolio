@@ -1,5 +1,7 @@
 # Global Covid Deaths EDA + Dashboard
 
+![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
+
 This project was born out of my curiosity to assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
 
 ## Process
