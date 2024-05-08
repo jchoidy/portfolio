@@ -15,7 +15,7 @@
 
 <br/>
 
-## 📊 Work Experience
+## 📑 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
 - Developed Wells Fargo's monthly DE&I media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
@@ -35,7 +35,7 @@
 
 <br/>
 
-## 📑 Projects 
+## 📊 Projects 
 **Global Covid Deaths and Infection Rate**<br/>
 [Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)
 
