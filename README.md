@@ -10,10 +10,10 @@ jasonchoiprod@gmail.com
 
 
 ## 📚 Education
-> |                 |                                   |
-> | :-------------- | :-------------------------------- |
-> | B.A., Economics | New York University (_May 2018_)  |
-> | Graphic Design  | Fullerton College (_August 2018_) |
+|                 |                                   |
+| :-------------- | :-------------------------------- |
+| B.A., Economics | New York University (_May 2018_)  |
+| Graphic Design  | Fullerton College (_August 2018_) |
 
 <br/>
 
