@@ -32,7 +32,7 @@ With the dashboard, we can concentrate on global regions' mortality and infectio
 **Explanatory Factors for Disparity**
 > - Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
 > - Potential explanations include flawed reporting systems, resource limitations, and governmental factors -- such as the [influence of authoritarian regimes](https://www.thoughtco.com/communist-countries-overview-1435178) on data transparency or [underdeveloped countries in certain continents](https://www.jagranjosh.com/general-knowledge/third-world-countries-list-1705907395-1)
-> - Oceania's balanced ratio may be explain due to ['higher trust' in government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), making its COVID-19 policy efficacy higher
+> - Oceania's balanced ratio may be attributed to the ['higher trust' in both government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), leading to greater efficacy of its COVID-19 policies.
 
 <br/>
 
