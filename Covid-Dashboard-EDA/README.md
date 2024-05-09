@@ -3,7 +3,7 @@
 [Tableau Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)<br/>
 ![covid_dashboard](https://github.com/jchoidy/portfolio/assets/129639246/6db98167-9c64-4799-8951-87daa25d13fc)
 
-- This project emerged from my curiosity to analyze global COVID-19 restriction effectiveness since 2020, focusing on tracking infection rate trends in densely populated countries.
+- This project stems from my curiosity about analyzing global COVID-19 death and infection rates, particularly focusing on mortality and infection rates, and assessing the accuracy of reporting across countries worldwide
 
 ## Dataset Summary
 - Global deaths, infections, and vaccination data from [Our World in Data: Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths), (January 10, 2020 - February 28, 2024)
@@ -12,7 +12,28 @@
 - **Tools**: Excel, SQL (PostgreSQL, PGAdmin), Tableau
 - **Process**: I organized the dataset into two Excel tables (covid_deaths and covid_vaccinations), loaded them into SQL, and extracted query results for visualization in Tableau.
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis + Takeaways
+With the dashboard, we are able to focus on deaths and infection rates by global regions.
+- Population vs. Fatality Ratio
+> - Defined as a **ratio of global % population to global % of fatalities** (from COVID-19)
+> - Europe, North America, and South America exhibit a similar ratio of %Global-Population : %COVID-19-Fatality
+> - Oceania is closer to 1:1
+> - **Asia and Africa have disproportionately lower fatality rate compared to their global population**
+
+| Continent     | Global Population | Global Fatality % COVID-19 | Population:Fatality Ratio |
+| ------------- | ----------------- | -------------------------- | ------------------------- |
+| Europe	| 9.26%             | 29.8%                        | 1 : 3.2                 |
+| North America | 7.6%              | 23.5%                        | 1 : 3.1                 |
+| South America | 5.53%             | 19.3%                        | 1 : 3.5                 | 
+| Asia          | 61.56%            | 23.2%                        | **1 : 0.4**             |
+| Africa        | 18.68%            | 3.6%                         | **1 : 0.2**             |
+| Oceania       | 0.58% 	    | 0.45%                        | 1 : 0.8                 |
+
+- Explanatory Factors for Disparity
+> - Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
+> - Potential explanations include flawed reporting systems, resource limitations, and governmental factors -- such as the [influence of authoritarian regimes on data transparency](https://www.thoughtco.com/communist-countries-overview-1435178) or [underdeveloped countries in certain continents](https://www.jagranjosh.com/general-knowledge/third-world-countries-list-1705907395-1)
+> - Oceania's balanced ratio may be explain due to ['higher trust' in government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), making its COVID-19 policy efficacy higher
+
 Death % by location
 ```sql
 SELECT location, date, total_cases, total_deaths, (total_deaths/total_cases)*100 AS death_percentage
@@ -42,6 +63,18 @@ WHERE continent != 'null'
 GROUP BY location
 ORDER BY total_death_count DESC
 ```
+Infection rate by continent
+```sql
+SELECT location, MAX(total_cases) AS highest_infection_count,
+MAX((total_cases/population)*100) AS contraction_percentage
+FROM covid_deaths
+WHERE continent IS NULL
+AND location NOT IN ('World', 'European Union', 'International', 'High income', 'Upper middle income',
+                    'Lower middle income','Low income')
+GROUP BY location, population
+ORDER BY contraction_percentage DESC
+```
+
 Looking at continents with the **highest death count**
 ```sql
 /* 'location' column includes data that has more accurate continent totals,
