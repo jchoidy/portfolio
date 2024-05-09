@@ -17,8 +17,8 @@ With the dashboard, we can concentrate on global regions' mortality and infectio
 - **Population vs. Fatality Ratio**
 > - Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
 > - Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
+> - **Asia and Africa exhibit a disproportionately lower fatality rate relative to their global population**
 > - Oceania is closer to 1:1
-> - **Asia and Africa have disproportionately lower fatality rate compared to their global population**
 
 | Continent     | Global Population | Global Fatality % COVID-19 | Population : Fatality Ratio |
 | ------------- | ----------------- | -------------------------- | --------------------------- |
