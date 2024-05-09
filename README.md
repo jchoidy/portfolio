@@ -20,20 +20,20 @@ jasonchoiprod@gmail.com
 ## 📑 Work Experience
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
 **Clients**: McDonald's, Wells Fargo
-> - Developed Wells Fargo's monthly DE&I Earned Media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
-> - Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
-> - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
+- Developed Wells Fargo's monthly DE&I Earned Media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
+- Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
+- Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
 **Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
-> - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
-> - Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
-> - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
+- Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
+- Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
+- Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
 **Public Relations Intern** @ IW Group Inc. | (_June 2015 - December 2015_)<br/>
 **Clients**: McDonald's, Wells Fargo, Lexus
-> - Brainstormed ideas with the PR team on how to gain earned media and improve brand image for clients such as Wells Fargo, McDonald’s, and Lexus
-> - Developed social media trackers for events, analyzed data such as engagement, and reported findings to the wider team
+- Brainstormed ideas with the PR team on how to gain earned media and improve brand image for clients such as Wells Fargo, McDonald’s, and Lexus
+- Developed social media trackers for events, analyzed data such as engagement, and reported findings to the wider team
 
 <br/>
 
@@ -41,7 +41,7 @@ jasonchoiprod@gmail.com
 **Global Covid Deaths EDA + Dashboard**<br/>
 [Interactive Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1) | [Project Breakdown](/Covid-Dashboard-EDA/README.md)
 
-Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing global death and infection rates in **Tableau**. The insights allow for a general assessment of Covid restriction efficacy since 2020, particularly in highly populated nations, and tracking infection rate trends over time.
+> Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing global death and infection rates in **Tableau**. The insights allow for a general assessment of Covid restriction efficacy since 2020, particularly in highly populated nations, and tracking infection rate trends over time.
 
 ![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
 
@@ -50,7 +50,7 @@ Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing 
 **Movie Genre + Rating Distribution Dashboard**<br/>
 [Project Breakdown](/IMDb-Dashboard/README.md)
 
-Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country and release date, allowing for trend analysis on global entertainment preferences.
+> Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country and release date, allowing for trend analysis on global entertainment preferences.
 
 ![Dashboard](/assets/IMDb_dashboard.png)
 
