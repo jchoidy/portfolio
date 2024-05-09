@@ -13,8 +13,8 @@
 - **Process**: I organized the dataset into two Excel tables (covid_deaths and covid_vaccinations), loaded them into SQL, and extracted query results for visualization in Tableau.
 
 ## Exploratory Data Analysis + Takeaways
-With the dashboard, we can concentrate on global regions' mortality and infection rates.
-- **Population vs. Fatality Ratio**
+With the dashboard, we can concentrate on global regions' mortality and infection rates.<br/>
+**Population vs. Fatality Ratio**
 > - Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
 > - Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
 > - **Asia and Africa exhibit a disproportionately lower fatality rate relative to their global population**
@@ -29,7 +29,7 @@ With the dashboard, we can concentrate on global regions' mortality and infectio
 | **Africa**    | **18.68%**        | **3.6%**                   | **1 : 0.2**                 |
 | Oceania       | 0.58% 	    | 0.45%                      | 1 : 0.8                     |
 
-- **Explanatory Factors for Disparity**
+**Explanatory Factors for Disparity**
 > - Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
 > - Potential explanations include flawed reporting systems, resource limitations, and governmental factors -- such as the [influence of authoritarian regimes on data transparency](https://www.thoughtco.com/communist-countries-overview-1435178) or [underdeveloped countries in certain continents](https://www.jagranjosh.com/general-knowledge/third-world-countries-list-1705907395-1)
 > - Oceania's balanced ratio may be explain due to ['higher trust' in government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), making its COVID-19 policy efficacy higher
