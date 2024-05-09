@@ -1,6 +1,7 @@
 # Movie Genre + Rating Distribution Dashboard
 [Try the Dashboard](https://github.com/jchoidy/portfolio/blob/3ff3dd927025aa16d3a97a0bf80aa17dc2740c5a/IMDb-Dashboard/IMDb_Movie_Dashboard.xlsx)
-![IMDb-Dashboard](/assets/IMDb_dashboard.png)
+![imdb-dashboard](/assets/IMDb_dashboard.png)
+
 - I love watching movies of all genres and ratings, but I do love my comedies! I wanted to explore the rating distribution between different genres. Are there more rated R movies in Action? Are comedies generally PG-13? How do they differ globally? I wanted to create a dashboard from a database that's proven to keep records of the most popular movies out there.
 
 ## Dataset Summary
