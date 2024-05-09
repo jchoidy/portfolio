@@ -1,6 +1,7 @@
 # Global Covid Deaths EDA + Dashboard
 
-![Covid Deaths and Infection Rate](/assets/covid_dashboard.png)
+![covid_dashboard](https://github.com/jchoidy/portfolio/assets/129639246/6db98167-9c64-4799-8951-87daa25d13fc)
+
 
 This project was born out of my curiosity to assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
 
