@@ -15,10 +15,10 @@
 ## Exploratory Data Analysis + Takeaways
 With the dashboard, we can concentrate on global regions' mortality and infection rates.<br/><br/>
 **Population vs. Fatality Ratio**
-> - Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
-> - Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
-> - **Asia and Africa exhibit a disproportionately lower fatality rate relative to their global population**
-> - Oceania is closer to 1:1
+- Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
+- Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
+- **Asia and Africa exhibit a disproportionately lower fatality rate relative to their global population**
+- Oceania is closer to 1:1
 
 | Continent     | Global Population | Global Fatality % COVID-19 | Population : Fatality Ratio |
 | ------------- | ----------------- | -------------------------- | --------------------------- |
@@ -30,9 +30,9 @@ With the dashboard, we can concentrate on global regions' mortality and infectio
 | Oceania       | 0.58% 	    | 0.45%                      | 1 : 0.8                     |
 
 **Explanatory Factors for Disparity**
-> - Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
-> - Potential explanations include flawed reporting systems, resource limitations, and governmental factors -- such as the [influence of authoritarian regimes](https://www.thoughtco.com/communist-countries-overview-1435178) on data transparency or [underdeveloped countries in certain continents](https://www.jagranjosh.com/general-knowledge/third-world-countries-list-1705907395-1)
-> - Oceania's balanced ratio may be attributed to the ['higher trust' in both government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), leading to greater efficacy of its COVID-19 policies.
+- Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
+- Potential explanations include flawed reporting systems, resource limitations, and governmental factors -- such as the [influence of authoritarian regimes](https://www.thoughtco.com/communist-countries-overview-1435178) on data transparency or [underdeveloped countries in certain continents](https://www.jagranjosh.com/general-knowledge/third-world-countries-list-1705907395-1)
+- Oceania's balanced ratio may be attributed to the ['higher trust' in both government and people](https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html), leading to greater efficacy of its COVID-19 policies.
 
 <br/>
 
