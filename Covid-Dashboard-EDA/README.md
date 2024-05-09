@@ -9,9 +9,9 @@ This project emerged from my curiosity to analyze global COVID-19 restriction ef
 
 Global deaths, infections, and vaccine data from [Our World in Data: Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths), (January 10, 2020 - February 28, 2024)
 
-## Process + Tools Used
-
-I transformed the dataset into two tables (covid_deaths and covid_vaccinations) in **Excel**. I then loaded the tables using **PostgreSQL** into **PGAdmin** and extracted my EDA query results for visualization in **Tableau**.
+## Tools Used + Process
+- **Tools**: Excel, SQL (PostgreSQL, PGAdmin), Tableau
+- **Process**: I organized the dataset into two Excel tables (covid_deaths and covid_vaccinations), loaded them into SQL, and extracted query results for visualization in Tableau.
 
 ## Exploratory Data Analysis
 Total cases vs Total deaths
