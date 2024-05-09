@@ -14,20 +14,20 @@
 
 ## Exploratory Data Analysis + Takeaways
 With the dashboard, we can concentrate on global regions' mortality and infection rates.<br/><br/>
-**Population vs. Fatality Ratio**
+**Population : Fatality Ratio**
 - Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
-- Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
-- **Asia and Africa exhibit a disproportionately lower fatality rate relative to their global population**
+- Europe, North America, and South America exhibit a significantly higher share (%) of global COVID-19 fataliaties compared to other continents
+- **Asia and Africa exhibit a disproportionately lower fatality share (%) relative to their global population**
 - Oceania is closer to 1:1
 
-| Continent     | Global Population | Global Fatality % COVID-19 | Population : Fatality Ratio |
-| ------------- | ----------------- | -------------------------- | --------------------------- |
-| Europe	| 9.26%             | 29.8%                      | 1 : 3.2                     |
-| North America | 7.6%              | 23.5%                      | 1 : 3.1             	       |
-| South America | 5.53%             | 19.3%                      | 1 : 3.5                     | 
-| **Asia**      | **61.56%**        | **23.2%**                  | **1 : 0.4**                 |
-| **Africa**    | **18.68%**        | **3.6%**                   | **1 : 0.2**                 |
-| Oceania       | 0.58% 	    | 0.45%                      | 1 : 0.8                     |
+| Continent     | Global Population | Global Fatality % COVID-19 | Population % : Fatality % Ratio |
+| ------------- | ----------------- | -------------------------- | ------------------------------- |
+| Europe	| 9.26%             | 29.8%                      | 1 : 3.2                         |
+| North America | 7.6%              | 23.5%                      | 1 : 3.1             	           |
+| South America | 5.53%             | 19.3%                      | 1 : 3.5                         | 
+| **Asia**      | **61.56%**        | **23.2%**                  | **1 : 0.4**                     |
+| **Africa**    | **18.68%**        | **3.6%**                   | **1 : 0.2**                     |
+| Oceania       | 0.58% 	    | 0.45%                      | 1 : 0.8                         |
 
 **Explanatory Factors for Disparity**
 - Disparities in population-to-fatality ratios between continents raise questions about reporting accuracy, resource availability, and governance structures
