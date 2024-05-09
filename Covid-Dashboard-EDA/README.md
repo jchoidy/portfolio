@@ -25,8 +25,8 @@ With the dashboard, we can concentrate on global regions' mortality and infectio
 | Europe	| 9.26%             | 29.8%                      | 1 : 3.2                     |
 | North America | 7.6%              | 23.5%                      | 1 : 3.1             	       |
 | South America | 5.53%             | 19.3%                      | 1 : 3.5                     | 
-| Asia          | 61.56%            | 23.2%                      | **1 : 0.4**                 |
-| Africa        | 18.68%            | 3.6%                       | **1 : 0.2**                 |
+| **Asia**      | **61.56%**        | **23.2%**                  | **1 : 0.4**                 |
+| **Africa**    | **18.68%**        | **3.6%**                   | **1 : 0.2**                 |
 | Oceania       | 0.58% 	    | 0.45%                      | 1 : 0.8                     |
 
 - **Explanatory Factors for Disparity**
