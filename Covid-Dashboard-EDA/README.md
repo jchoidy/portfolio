@@ -13,7 +13,7 @@
 - **Process**: I organized the dataset into two Excel tables (covid_deaths and covid_vaccinations), loaded them into SQL, and extracted query results for visualization in Tableau.
 
 ## Exploratory Data Analysis + Takeaways
-With the dashboard, we can concentrate on global regions' mortality and infection rates.<br/>
+With the dashboard, we can concentrate on global regions' mortality and infection rates.<br/><br/>
 **Population vs. Fatality Ratio**
 > - Defined as the **ratio between the global % of population and the global % of fatalities** due to COVID-19
 > - Europe, North America, and South America exhibit a consistent ratio between their share of the global population and their % of COVID-19 fataliaties, although there isn't a standardized metric for comparison
