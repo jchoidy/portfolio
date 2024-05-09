@@ -1,5 +1,6 @@
 # Global Covid Deaths EDA + Dashboard
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)<br/>
 ![covid_dashboard](https://github.com/jchoidy/portfolio/assets/129639246/6db98167-9c64-4799-8951-87daa25d13fc)
 
 This project was born out of my curiosity to assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
@@ -10,7 +11,7 @@ Global deaths, infections, and vaccine data from [Our World in Data: Coronavirus
 
 ## Process + Tools Used
 
-After downloading the dataset from [Our World in Data](https://ourworldindata.org/covid-deaths), I transformed dataset into two tables (covid_deaths and covid_vaccinations) in **Excel**. I then loaded the tables using **PostgreSQL** into **PGAdmin** and extracted my EDA query results for visualization in **Tableau**.
+I transformed the dataset into two tables (covid_deaths and covid_vaccinations) in **Excel**. I then loaded the tables using **PostgreSQL** into **PGAdmin** and extracted my EDA query results for visualization in **Tableau**.
 
 ## Exploratory Data Analysis
 Total cases vs Total deaths
