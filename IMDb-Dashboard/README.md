@@ -9,7 +9,7 @@
 
 ## Tools Used + Process
 - **Tools**: Excel Pivot Tables, Pivot Charts
-- **Process**: I used pivot tables to collect data between movie genres + ratings, considering the quantity of movies released for each dimension. Next, I created a trends chart to examine revenue spikes over the years and identify which rating generated the highest revenue annually. Finally, I implemented Slicers to analyze these metrics by focusing on specific rating types or expanding the analysis to different countries worldwide.
+- **Process**: I used pivot tables to collect data between movie genres + ratings, considering the quantity of movies released for each dimension. Next, I created a time-series chart to examine revenue spikes over the years and identify which rating generated the highest revenue annually. Finally, I implemented Slicers to analyze these metrics by focusing on specific rating types or expanding the analysis to different countries worldwide.
 
 ## EDA + Dashboard Takeaways
 I examined US movie rating and genre revenue trends from 2007 to 2012:
