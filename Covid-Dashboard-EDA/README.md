@@ -16,6 +16,38 @@ After downloading the dataset from [Our World in Data](https://ourworldindata.or
 - Transform csv file into two tables in **Excel**
 - Load tables using **PostgreSQL** into **PG Admin**
 - Extract query results and load data into **Tableau**
+
+## Exploratory Data Analysis
+- What are the Total Cases vs Total Deaths?
+> Shows % of people who died who had Covid-19; also the general likelihood of dying if you contract Covid-19.
+- What are the Total Cases vs Population?
+> Shows % of population that contracted Covid-19 in a given country.
+- Looking at countries with **highest infection rate**
+- Show countries with **highest death count** per population
+- Show continents with the **highest death count per population**
+- Show total populations vs vaccinations (using Common Table Expression)
+```sql
+WITH pop_vs_vacc (continent, location, date, population, new_vaccinations, rolling_people_vaccinated)
+AS
+(
+SELECT
+	dea.continent, dea.location, dea.date, dea.population, vacc.new_vaccinations,
+	SUM(vacc.new_vaccinations)
+	OVER (PARTITION BY dea.location
+		  ORDER BY dea.location, dea.date)
+		  AS rolling_people_vaccinated
+FROM covid_deaths AS dea
+JOIN covid_vaccinations AS vacc
+	ON dea.location = vacc.location
+	AND dea.date = vacc.date
+WHERE dea.continent IS NOT NULL
+--ORDER BY 2,3
+)
+SELECT *, (rolling_people_vaccinated/population)*100
+FROM pop_vs_vacc
+```
+
+
 ## Queries for Dashboard
 
 Total cases, deaths, and death percentage
