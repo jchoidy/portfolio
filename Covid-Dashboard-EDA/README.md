@@ -3,7 +3,7 @@
 [Tableau Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1)<br/>
 ![covid_dashboard](https://github.com/jchoidy/portfolio/assets/129639246/6db98167-9c64-4799-8951-87daa25d13fc)
 
-This project was born out of my curiosity to assess Covid restriction efficacy since 2020 around the globe, particularly by tracking infection rate trends over time in highly populated nations. 
+This project emerged from my curiosity to analyze global COVID-19 restriction effectiveness since 2020, focusing on tracking infection rate trends in densely populated countries.
 
 ## Dataset Summary
 
