@@ -13,14 +13,14 @@
 - **Process**: I organized the dataset into two Excel tables (covid_deaths and covid_vaccinations), loaded them into SQL, and extracted query results for visualization in Tableau.
 
 ## Exploratory Data Analysis
-Total cases vs Total deaths
+Death % by location
 ```sql
 SELECT location, date, total_cases, total_deaths, (total_deaths/total_cases)*100 AS death_percentage
 FROM covid_deaths
 ORDER BY 1,2
 ```
 
-Total cases vs Total population
+% of population that contracted COVID-19 by location
 ```sql
 SELECT location, date, population, total_cases, (total_cases/population)*100 AS contraction_percentage
 FROM covid_deaths
@@ -34,7 +34,7 @@ FROM covid_deaths
 GROUP BY location, population
 ORDER BY contraction_percentage DESC
 ```
-Show countries with **highest death count** per population
+**Highest death count** by location
 ```sql
 SELECT location, MAX(total_deaths) as total_death_count
 FROM covid_deaths
@@ -42,7 +42,7 @@ WHERE continent != 'null'
 GROUP BY location
 ORDER BY total_death_count DESC
 ```
-Show continents with the **highest death count per population**
+Looking at continents with the **highest death count**
 ```sql
 /* 'location' column includes data that has more accurate continent totals,
 so WHERE statement should be 'continent is null'
@@ -56,7 +56,7 @@ GROUP BY location
 ORDER BY total_death_count DESC
 ```
 
-Show total population vs vaccinations (using Common Table Expression)
+Rolling % of population vaccinated by location and date (using Common Table Expression)
 ```sql
 WITH pop_vs_vacc (continent, location, date, population, new_vaccinations, rolling_people_vaccinated)
 AS
@@ -82,7 +82,7 @@ FROM pop_vs_vacc
 
 ## Queries for Dashboard
 
-Total cases, deaths, and death percentage
+Total cases, deaths, and death %
 ```sql
 SELECT SUM(new_cases) AS total_cases,
 	SUM(new_deaths) AS total_deaths,
@@ -91,7 +91,8 @@ FROM covid_deaths
 WHERE continent IS NOT NULL
 ORDER BY 1,2
 ```
-Deaths by continent
+
+Total deaths by continent
 ```sql
 SELECT location, SUM(new_deaths) AS total_death_count
 FROM covid_deaths
@@ -102,7 +103,7 @@ GROUP BY location
 ORDER BY total_death_count DESC
 ```
 
-Total infection count and infection percentage by location
+Total infection count and infection % by location
 ```sql
 SELECT location, population, MAX(total_cases) AS highest_infection_count,
 MAX((total_cases/population))*100 AS percent_population_infected
@@ -110,7 +111,8 @@ FROM covid_deaths
 GROUP BY location, population
 ORDER BY percent_population_infected DESC
 ```
-Infection by date (by location)
+
+% of population infected by date and location (time-series)
 ```sql
 SELECT location, population, date, MAX(total_cases) AS highest_infection_count,
 MAX((total_cases/population))*100 AS percent_population_infected
