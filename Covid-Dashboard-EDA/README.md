@@ -6,7 +6,7 @@
 - This project emerged from my curiosity to analyze global COVID-19 restriction effectiveness since 2020, focusing on tracking infection rate trends in densely populated countries.
 
 ## Dataset Summary
-- Global deaths, infections, and vaccine data from [Our World in Data: Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths), (January 10, 2020 - February 28, 2024)
+- Global deaths, infections, and vaccination data from [Our World in Data: Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths), (January 10, 2020 - February 28, 2024)
 
 ## Tools Used + Process
 - **Tools**: Excel, SQL (PostgreSQL, PGAdmin), Tableau
