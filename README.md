@@ -2,8 +2,9 @@
 jasonchoiprod@gmail.com
 
 
-**Technical Skills**: SQL, Tableau, Excel, Python, R <br/>
+**Technical Skills**: SQL, Tableau, Excel, Basic Analytics via Python + R <br/>
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker <br/>
+**CRM**: Salesforce, Meta Business Suite, Shopify, Monday.com
 
 
 ---
@@ -13,18 +14,21 @@ jasonchoiprod@gmail.com
 |                 |                                   |
 | :-------------- | :-------------------------------- |
 | B.A., Economics | New York University (_May 2018_)  |
-| Graphic Design  | Fullerton College (_August 2018_) |
 
 <br/>
 
 ## 📑 Work Experience
-**PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - Present_)<br/>
+**PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - May 2024_)<br/>
 **Clients**: McDonald's, Wells Fargo
 - Developed Wells Fargo's monthly DE&I Earned Media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
 - Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
 - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
-**Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
+**Sous Chef** @ SakaMai | (_October 2021 - September 2022_)
+- Managed, tracked and analyzed ingredient usage to optimize food costs
+- Prepared recipes using scaled measurements and culinary techniques in a high-pressure environment under a Michelin-Star Chef
+
+**Co-Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
 - Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
@@ -39,7 +43,8 @@ jasonchoiprod@gmail.com
 
 ## 📊 Projects 
 **Global Covid Deaths EDA + Dashboard**<br/>
-[Interactive Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1) | [Project Breakdown](/Covid-Dashboard-EDA/README.md)
+[Interactive Dashboard](https://public.tableau.com/app/profile/jason.choi7047/viz/CovidResearch_17129148303530/Dashboard1) <br/>
+[Click Here for Project Breakdown](/Covid-Dashboard-EDA/README.md)
 
 - Utilized **SQL** for exploratory analysis of Covid data up to 2024, visualizing global death and infection rates in **Tableau**. The insights allow for an assessment of Covid restriction efficacy and reporting accuracy since 2020, focusing on intercontinental comparisons and infection rate trends.
 
@@ -48,7 +53,7 @@ jasonchoiprod@gmail.com
 <br/>
 
 **Movie Genre + Rating Distribution Dashboard**<br/>
-[Project Breakdown](/IMDb-Dashboard/README.md)
+[Click Here for Project Breakdown](/IMDb-Dashboard/README.md)
 
 - Employed **Excel** Pivot Tables to explore IMDb movie data (1920-2015) by genre and ratings, creating an interactive dashboard with Slicers for visualization. The dashboard provides insights into rating distributions (G, PG, PG-13, R) across genres, filtered by Country, rating, and release date, allowing for trend analysis on global entertainment preferences.
 
