@@ -24,20 +24,15 @@ jasonchoiprod@gmail.com
 - Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
 - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
-**Sous Chef** @ SakaMai | (_October 2021 - September 2022_)
-- Managed, tracked and analyzed ingredient usage to optimize food costs
-- Prepared recipes using scaled measurements and culinary techniques in a high-pressure environment under a Michelin-Star Chef
-
-**Co-Founder** @ Glass Lizzard | (_January 2020 - Present_)<br/>
+**Co-Founder** @ Glass Lizzard | (_January 2020 - October 2023_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
 - Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
-**Public Relations Intern** @ IW Group Inc. | (_June 2015 - December 2015_)<br/>
-**Clients**: McDonald's, Wells Fargo, Lexus
-- Brainstormed ideas with the PR team on how to gain earned media and improve brand image for clients such as Wells Fargo, McDonald’s, and Lexus
-- Developed social media trackers for events, analyzed data such as engagement, and reported findings to the wider team
+**Sous Chef** @ SakaMai | (_October 2021 - September 2022_)
+- Managed, tracked and analyzed ingredient usage to optimize food costs
+- Prepared recipes using scaled measurements and culinary techniques in a high-pressure environment under a Michelin-Star Chef
 
 <br/>
 
