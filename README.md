@@ -2,7 +2,7 @@
 jasonchoiprod@gmail.com
 
 
-**Technical Skills**: SQL, Tableau, Excel, Basic Analytics via Python + R <br/>
+**Technical Skills**: SQL, Tableau, Excel, Basic Python + R <br/>
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker <br/>
 **CRM**: Salesforce, Meta Business Suite, Shopify, Monday.com
 
