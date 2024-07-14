@@ -1,8 +1,8 @@
 # Data Analyst<br/>
-jasonchoiprod@gmail.com
+jasonchoidata@gmail.com
 
 
-**Technical Skills**: SQL, Tableau, Excel, Basic Python + R <br/>
+**Technical Skills**: SQL, Excel, Tableau, Power BI, Basic Python + R <br/>
 **Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker <br/>
 **CRM**: Salesforce, Meta Business Suite, Shopify, Monday.com
 
