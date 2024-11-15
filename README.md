@@ -18,6 +18,12 @@ jasonchoidata@gmail.com
 <br/>
 
 ## 📑 Work Experience
+
+**Customer Feedback Program Analyst** @ Hyundai Motor America | (_July 2024 - Current_)<br/>
+- Oversee and investigate field inquiries via the Customer Feedback Inbox, analyzing dealership and customer RO/RDR data to enhance survey compliance and dealer knowledge on survey processes
+- Execute SQL queries to support Customer Feedback investigations and assess sample health trends
+- Support the Process Investigation team with tasks such as assigning dealer employee data in AS400, monitoring data loading/extraction issues, and resolving dealership-related survey data investigations
+
 **PR & Brand Coordinator** @ IW Group Inc. | (_October 2022 - May 2024_)<br/>
 **Clients**: McDonald's, Wells Fargo
 - Developed Wells Fargo's monthly DE&I Earned Media reporting dashboard using Excel pivot tables and Tableau, creating new data benchmarks and measurement practices for the client's PR/Comms team
