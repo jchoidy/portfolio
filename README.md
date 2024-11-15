@@ -2,9 +2,9 @@
 jasonchoidata@gmail.com
 
 
-**Technical Skills**: SQL, Excel, Tableau, Power BI, Basic Python + R <br/>
-**Marketing Software**: Muck Rack, Sprinklr, Brandwatch, Talkwalker <br/>
-**CRM**: Salesforce, Meta Business Suite, Shopify, Monday.com
+**Data Technical**: Advanced Excel, SQL, Power Query, PostgreSQL, DBeaver, Python, Tableau, Power BI, MS Access <br/>
+**Marketing Software**: MuckRack, Sprinklr, Brandwatch, Talkwalker <br/>
+**CRM**: SAP, Salesforce, Shopify, Monday.com, Meta Business Suite
 
 
 ---
