@@ -2,9 +2,9 @@
 jasonchoidata@gmail.com
 
 
-**Data Technical**: Advanced Excel, SQL, Power Query, PostgreSQL, DBeaver, Python, Tableau, Power BI, MS Access <br/>
-**Marketing Software**: MuckRack, Sprinklr, Brandwatch, Talkwalker <br/>
-**CRM**: SAP, Salesforce, Shopify, Monday.com, Meta Business Suite
+**Analytics**: Alteryx, SQL, Excel/Power Query, MS Access, Tableau, Python <br/>
+**Certifications**: Alteryx Designer Core <br/>
+**CRM**: Muck Rack, Upfluence, Sprinklr, Brandwatch, SimilarWeb, Talkwalker, MRI-Simmons
 
 
 ---
@@ -13,7 +13,7 @@ jasonchoidata@gmail.com
 ## 📚 Education
 |                 |                                   |
 | :-------------- | :-------------------------------- |
-| B.A., Economics | New York University (_May 2018_)  |
+| B.A., Economics | New York University |
 
 <br/>
 
@@ -30,15 +30,19 @@ jasonchoidata@gmail.com
 - Compiled and maintained McDonald's AAPI segment's Earned Media databases through data entry and ETL processes, reducing the PR team's weekly workload by 15%
 - Developed efficient search queries for software tools (e.g., Muck Rack, Talkwalker, Brandwatch, Cision) to track earned media data across PR campaigns, adhering to client guidelines
 
+**Sous Chef** @ SakaMai | (_October 2021 - September 2022_)
+- Managed, tracked and analyzed ingredient usage to optimize food costs
+- Prepared recipes using scaled measurements and culinary techniques in a high-pressure environment under a Michelin-Star Chef
+
 **Co-Founder** @ Glass Lizzard | (_January 2020 - October 2023_)<br/>
 **Featured On**: [Buzzfeed](https://www.buzzfeed.com/racheldunkel/things-to-try-in-august), [Essence](https://www.essence.com/beauty/experts-say-dont-forget-to-exfoliating-your-skin/#1088475), [Bustle](https://www.bustle.com/style/glass-lizzard-bouncy-balm-review)
 - Founded a Korean skincare brand specializing in 100% vegan and cruelty-free products as a passion project
 - Designed a branded e-commerce store on Shopify; manage product sales and track customer data on Amazon Seller Central and Shopify
 - Manage projects and team communication via CRM (Monday.com, Trello, Slack)
 
-**Sous Chef** @ SakaMai | (_October 2021 - September 2022_)
-- Managed, tracked and analyzed ingredient usage to optimize food costs
-- Prepared recipes using scaled measurements and culinary techniques in a high-pressure environment under a Michelin-Star Chef
+**Chef & Co-Owner** @ QuikBowl | (_March 2017 - January 2020_)
+- Supervised 10+ person staff and maintained inventory of food supplies
+- Developed menu items based on consumer research and cost analysis
 
 <br/>
 
