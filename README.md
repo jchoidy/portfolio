@@ -4,7 +4,8 @@ jasonchoidata@gmail.com
 
 **Analytics**: Alteryx, SQL, Excel/Power Query, MS Access, Tableau, Python <br/>
 **Certifications**: Alteryx Designer Core <br/>
-**CRM**: Muck Rack, Upfluence, Sprinklr, Brandwatch, SimilarWeb, Talkwalker, MRI-Simmons
+**Marketing**: Muck Rack, Upfluence, Sprinklr, Brandwatch, SimilarWeb, Talkwalker, MRI-Simmons <br/>
+**CRM**: SAP, Salesforce, Oracle Database
 
 
 ---
