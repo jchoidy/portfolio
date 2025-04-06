@@ -11,8 +11,8 @@ jasonchoidata@gmail.com
 
 
 ## 📚 Education
-|                 |                                   |
-| :-------------- | :-------------------------------- |
+|                 |                     |
+| :-------------- | :------------------ |
 | B.A., Economics | New York University |
 
 <br/>
